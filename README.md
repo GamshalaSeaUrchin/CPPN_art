@@ -1,8 +1,8 @@
 # CPPN-art
 ## 環境構築
 OS: windows10</br>
-CUDA Version: 11.7
-cudnn Version: 8.4.1
+CUDA Version: 11.7</br>
+cudnn Version: 8.4.1</br>
 python: 3.10.5</br>
 <code>pip install -r requirements.txt</code>
 ## サンプル
