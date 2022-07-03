@@ -9,6 +9,7 @@ python: 3.10.5</br>
 ### cppn_likely
 Jupyter Notebook: cppn(likely)_generate.ipynb</br>
 Python script: src/cppn_likely.py
+![ex1](image/cppn_likely_model.png "model")
 ## 生成画像例
 ![ex1](output/sin_tan_tanh_tanh_8_grey.png "ex1")
 ![ex2](output/tanh_tanh_tanh_sigmoid_64_color.png "ex2")</br>
