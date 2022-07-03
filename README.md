@@ -1,11 +1,14 @@
 # CPPN-art
 ## 環境構築
 OS: windows10</br>
+CUDA Version: 11.7
+cudnn Version: 8.4.1
 python: 3.10.5</br>
 <code>pip install -r requirements.txt</code>
 ## サンプル
-Jupyter Notebook: cppn_generate.ipynb</br>
-Python script:  src/cppn_gererator.py
+### cppn_likely
+Jupyter Notebook: cppn(likely)_generate.ipynb</br>
+Python script: src/cppn_likely.py
 ## 生成画像例
 ![ex1](output/sin_tan_tanh_tanh_8_grey.png "ex1")
 ![ex2](output/tanh_tanh_tanh_sigmoid_64_color.png "ex2")</br>
